@@ -108,8 +108,8 @@ def take_test(exam, student):
     student.score = student_score
 
 
-#was a little unclear of the directions for this question, but tried my best!
-#my interpretation was to create a hard coded example of an exam
+# was a little unclear of the directions for this question, but tried my best!
+# my interpretation was to create a hard coded example of an exam
 def example():
     example_exam = Exam("Example Exam")
     example_exam.add_question("How many states are in the U.S.A.?", "50")
